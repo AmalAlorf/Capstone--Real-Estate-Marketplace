@@ -19,11 +19,19 @@ Start Ganache : `ganache-cli`
 run :Then deploy it using truffle.cmd deploy --network rinkeby.
 
 ## Project Resources
+
 Remix - Solidity IDE
+
 Visual Studio Code
+
 Truffle Framework
+
 Ganache - One Click Blockchain
+
 Open Zeppelin
+
 Interactive zero knowledge 3-colorability demonstration
+
 Docker
+
 ZoKrates
