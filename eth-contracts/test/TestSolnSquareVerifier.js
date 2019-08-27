@@ -1,4 +1,4 @@
-let SquareVerifier = artifacts.require('SquareVerifier');
+let SquareVerifier = artifacts.require('SqVerifier');
 let SolnSquareVerifier = artifacts.require('SolnSquareVerifier');
 
 let proof = require('../../zokrates/code/square/proof');
