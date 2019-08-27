@@ -18,10 +18,10 @@ Start Ganache : `ganache-cli`
 ## Deployment to rinkeby network : 
 run :Then deploy it using truffle.cmd deploy --network rinkeby.
 
-##contract address: 
+## Contract address: 
 0x74bab9b1e49ac77855316e93ad79a4326d03004c
 
-##Storefront
+## Storefront
 
 Storefront is created in OpenSea marketplace https://rinkeby.opensea.io/get-listed/step-two
 
