@@ -16,15 +16,20 @@ Start Ganache : `ganache-cli`
 
 
 ## Deployment to rinkeby network : 
-run :Then deploy it using truffle.cmd deploy --network rinkeby.
 
-## Contract address: 
-0x74bab9b1e49ac77855316e93ad79a4326d03004c
+run :Then deploy it using truffle.cmd deploy --network rinkeby.
 
 ## Storefront
 
 Storefront is created in OpenSea marketplace https://rinkeby.opensea.io/get-listed/step-two
 
+ To view the property with token "3" :  https://api.opensea.io/asset/0xF57cA2CADE08D09CCc52921980bF8E7689ee8c61/3/
+
+## Contract addresses: 
+
+contract address(SolnSquareVerifier): 0xF26FE984D6935C90714B59f7EbCd30AD9c7F0e82
+
+contract address(SqVerifier): 0xF57cA2CADE08D09CCc52921980bF8E7689ee8c61
 
 ## Project Resources
 
